@@ -14,7 +14,7 @@ public class Main {
 		 * long		 |-9,223,372,036,854,775,808|9,223,372,036,854,775,807	|8 bytes| 0
 		 * 
 		 * */
-
+//hati-hati jika konversi dari besar ke kecil karena bisa terkena number over flow akan berputar sampai numbernya terpenuhi
 	}
 
 }
